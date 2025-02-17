@@ -1,4 +1,4 @@
-# Java Basics - Methods
+# Java Classes and Objects - Methods
 
 ## Introduction
 
