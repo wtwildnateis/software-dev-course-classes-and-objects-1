@@ -40,10 +40,3 @@ operation.  Follow the instructions in the comments to implement the methods.
 
 > [!TIP]
 > Refer to the Java Basics 1 course for information on common String methods.
-
-Once you have completed the exercises, run the tests in the `src/test/java/org/example/StringUtilitiesTests.java`
-file to verify that your solutions are correct.
-
-To run these tests, right-click on the `StringUtilitiesTests` class and select `Run 'StringUtilitiesTests'`.
-
-You will see the results of the tests in the `Run` tab at the bottom of the IDE.
